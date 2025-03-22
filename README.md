@@ -7,6 +7,33 @@
 [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
 
 
+1. Thống kê tài sản theo trạng thái
+   ![image](https://github.com/user-attachments/assets/fb5aad3f-2a19-42d7-8250-0e3cd06db06d)
+   ![image](https://github.com/user-attachments/assets/9697cd87-dfdc-47de-9d9f-b11e35fea26a)
+   ![image](https://github.com/user-attachments/assets/630db153-de92-44bd-9e20-e982fb46d531)
+2. Quản lý tài sản
+   Tài sản
+   ![image](https://github.com/user-attachments/assets/4e62561c-2ac5-4258-a02f-514a47bcf4ac)
+   Danh mục quản lý tài sản
+   ![image](https://github.com/user-attachments/assets/e9b11037-45f7-4593-8c40-d02fa7af316f)
+3. Bảo trì tài sản
+   ![image](https://github.com/user-attachments/assets/17af206e-7e41-47d1-9bb8-23f4343b5ca9)
+4. Thanh lý tài sản
+   ![image](https://github.com/user-attachments/assets/3bddc172-314e-440e-9192-c38716bafba5)
+5. Mượn trả tài sản
+   ![image](https://github.com/user-attachments/assets/1ec1080a-89a8-4eb4-9ff3-c95773e249c3)
+6. Điều chuyển tài sản
+![image](https://github.com/user-attachments/assets/7a9e15cd-9f4a-492a-8c81-7c5e905c0238)
+
+7. Nhà cung cấp
+![image](https://github.com/user-attachments/assets/06e10bbf-f039-424f-a356-39e05e3b83d2)
+
+8. Lịch sử
+   Lịch sử sử dụng tài sản
+![image](https://github.com/user-attachments/assets/b174846f-87ff-4208-8d1d-87223d213425)
+
+   Lịch sử điều chuyển tài sản
+![image](https://github.com/user-attachments/assets/0e8a75c4-4e54-4e89-950f-5f5e390b5b67)
 
 # 1. Cài đặt công cụ, môi trường và các thư viện cần thiết
 
