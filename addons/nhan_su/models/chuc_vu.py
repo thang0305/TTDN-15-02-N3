@@ -7,3 +7,4 @@ class ChucVu(models.Model):  # Định nghĩa một model mới có tên là Chu
 
     ma_chuc_vu = fields.Char("Mã chức vụ", required=True)  # Trường kiểu chuỗi (Char), bắt buộc nhập
     ten_chuc_vu = fields.Char("Tên chức vụ", required=True)  # Trường kiểu chuỗi (Char), bắt buộc nhập
+
